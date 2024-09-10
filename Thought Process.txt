@@ -1,0 +1,4 @@
+Convert the two dates into "days" as the smallest unit. 
+It's important to check for leap years and determine the number of leap years occurring between the two dates. 
+Also, consider whether the current month needs to account for the extra leap year day. 
+Finally, output the absolute difference between the two calculated days.
